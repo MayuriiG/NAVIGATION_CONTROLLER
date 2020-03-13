@@ -1,0 +1,6 @@
+framework module Pods_NOTIFICATIONCENTREUITests {
+  umbrella header "Pods-NOTIFICATIONCENTREUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
